@@ -1,0 +1,24 @@
+[
+  {
+    "idisk": 1,
+    "title": "The Return Of The Space Cowboy",
+    "artist": " Jamiroquai ",
+    "image": "https://img.discogs.com/hExAg6dHEUPtCh6l8qoF0xl4YjE=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-21973-1262625736.jpeg.jpg",
+    "year": "1994"
+  },
+  {
+   "idisk": 2,
+    "title": "Dance Motifs",
+    "artist": " Needs ",
+    "image": "https://img.discogs.com/EAFa7N6jKFDRsXPWD1p18YQ_8k0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-101570-1479539614-9521.jpeg.jpg",
+    "year": "2000"
+  },
+ 
+  {
+   "idisk": 3,
+    "title": "Drunk",
+    "artist": "Thundercat",
+    "image": "https://img.discogs.com/yzBJGk0BHT5QAy2Ec5ejLHei58U=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9872506-1491329586-2049.jpeg.jpg",
+    "year": "2017"
+  }
+]
